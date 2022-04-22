@@ -1,0 +1,135 @@
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe.config
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csprojAssemblyReference.cache
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Form1.resources
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmMain.resources
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyPhong.resources
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLySinhVien.resources
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonTienPhong.resources
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHopDong.resources
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmTimKiem.resources
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonDienNuoc.resources
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachphongTrong.resources
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyCanBo.resources
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyTaiKhoan.resources
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.ResolveComReference.cache
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDangKyThue.resources
+D:\C#\NguyenVanTuan_2017605565\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachSinhVienTheoPhong.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe.config
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csprojAssemblyReference.cache
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.ResolveComReference.cache
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Form1.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDangKyThue.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachphongTrong.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachSinhVienTheoPhong.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonDienNuoc.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonTienPhong.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHopDong.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmMain.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyCanBo.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyPhong.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLySinhVien.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyTaiKhoan.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmTimKiem.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+D:\nam ba\do an .net\New folder\file ok\QLKTX_DHCNHN (1)\QLKTX_DHCNHN\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe.config
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csprojAssemblyReference.cache
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.ResolveComReference.cache
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Form1.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDangKyThue.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachphongTrong.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachSinhVienTheoPhong.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonDienNuoc.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonTienPhong.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHopDong.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmMain.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyCanBo.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyPhong.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLySinhVien.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyTaiKhoan.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmTimKiem.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+D:\nam ba\do an .net\New folder\file ok\QLKTX\QLKTX\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csprojAssemblyReference.cache
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.ResolveComReference.cache
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Form1.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDangKyThue.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachphongTrong.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachSinhVienTheoPhong.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonDienNuoc.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonTienPhong.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHopDong.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmMain.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyCanBo.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyPhong.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLySinhVien.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyTaiKhoan.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmTimKiem.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+D:\nam ba\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormDangNhap.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csprojAssemblyReference.cache
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.ResolveComReference.cache
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormDangNhap.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDangKyThue.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachphongTrong.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachSinhVienTheoPhong.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonDienNuoc.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonTienPhong.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHopDong.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmMain.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyCanBo.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyPhong.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLySinhVien.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyTaiKhoan.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmTimKiem.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+D:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.AssemblyReference.cache
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.ResolveComReference.cache
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormDangNhap.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDangKyThue.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachphongTrong.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachSinhVienTheoPhong.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonDienNuoc.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonTienPhong.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHopDong.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmMain.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyCanBo.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyPhong.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLySinhVien.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyTaiKhoan.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmTimKiem.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.GenerateResource.cache
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
