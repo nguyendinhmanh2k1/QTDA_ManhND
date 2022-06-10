@@ -91,10 +91,10 @@
             this.btn_thoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_thoat.Image = global::QuanLyKyTucXa.Properties.Resources.Next32;
             this.btn_thoat.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_thoat.Location = new System.Drawing.Point(341, 213);
+            this.btn_thoat.Location = new System.Drawing.Point(317, 213);
             this.btn_thoat.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_thoat.Name = "btn_thoat";
-            this.btn_thoat.Size = new System.Drawing.Size(124, 55);
+            this.btn_thoat.Size = new System.Drawing.Size(148, 55);
             this.btn_thoat.TabIndex = 13;
             this.btn_thoat.Text = "Thoát";
             this.btn_thoat.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -109,7 +109,7 @@
             this.btn_dangNhap.Location = new System.Drawing.Point(37, 213);
             this.btn_dangNhap.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_dangNhap.Name = "btn_dangNhap";
-            this.btn_dangNhap.Size = new System.Drawing.Size(137, 55);
+            this.btn_dangNhap.Size = new System.Drawing.Size(181, 55);
             this.btn_dangNhap.TabIndex = 12;
             this.btn_dangNhap.Text = "Đăng nhập";
             this.btn_dangNhap.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
