@@ -47,7 +47,7 @@
             this.lbl_title.Location = new System.Drawing.Point(122, 9);
             this.lbl_title.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl_title.Name = "lbl_title";
-            this.lbl_title.Size = new System.Drawing.Size(440, 31);
+            this.lbl_title.Size = new System.Drawing.Size(525, 38);
             this.lbl_title.TabIndex = 0;
             this.lbl_title.Text = "Danh sách sinh viên trong phòng";
             // 
@@ -58,7 +58,7 @@
             this.lbl_phong.Location = new System.Drawing.Point(31, 100);
             this.lbl_phong.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl_phong.Name = "lbl_phong";
-            this.lbl_phong.Size = new System.Drawing.Size(54, 17);
+            this.lbl_phong.Size = new System.Drawing.Size(61, 20);
             this.lbl_phong.TabIndex = 1;
             this.lbl_phong.Text = "Phòng";
             // 
@@ -70,7 +70,7 @@
             this.cbo_phong.Location = new System.Drawing.Point(129, 97);
             this.cbo_phong.Margin = new System.Windows.Forms.Padding(2);
             this.cbo_phong.Name = "cbo_phong";
-            this.cbo_phong.Size = new System.Drawing.Size(196, 25);
+            this.cbo_phong.Size = new System.Drawing.Size(196, 28);
             this.cbo_phong.TabIndex = 2;
             this.cbo_phong.SelectedIndexChanged += new System.EventHandler(this.cbo_phong_SelectedIndexChanged);
             // 
@@ -139,9 +139,9 @@
             // 
             // frmDanhSachSinhVienTheoPhong
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(788, 622);
             this.Controls.Add(this.btn_thoat);
             this.Controls.Add(this.dgv_danhSach);
