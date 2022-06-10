@@ -147,7 +147,7 @@
             this.txt_matKhau.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_matKhau.Location = new System.Drawing.Point(238, 154);
             this.txt_matKhau.Name = "txt_matKhau";
-            this.txt_matKhau.Size = new System.Drawing.Size(275, 23);
+            this.txt_matKhau.Size = new System.Drawing.Size(275, 27);
             this.txt_matKhau.TabIndex = 15;
             // 
             // txt_taiKhoan
@@ -155,16 +155,16 @@
             this.txt_taiKhoan.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_taiKhoan.Location = new System.Drawing.Point(238, 91);
             this.txt_taiKhoan.Name = "txt_taiKhoan";
-            this.txt_taiKhoan.Size = new System.Drawing.Size(275, 23);
+            this.txt_taiKhoan.Size = new System.Drawing.Size(275, 27);
             this.txt_taiKhoan.TabIndex = 14;
             // 
             // lbl_maCB
             // 
             this.lbl_maCB.AutoSize = true;
             this.lbl_maCB.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_maCB.Location = new System.Drawing.Point(98, 219);
+            this.lbl_maCB.Location = new System.Drawing.Point(76, 222);
             this.lbl_maCB.Name = "lbl_maCB";
-            this.lbl_maCB.Size = new System.Drawing.Size(59, 17);
+            this.lbl_maCB.Size = new System.Drawing.Size(68, 20);
             this.lbl_maCB.TabIndex = 13;
             this.lbl_maCB.Text = "Cán bộ";
             // 
@@ -172,9 +172,9 @@
             // 
             this.lbl_matKhau.AutoSize = true;
             this.lbl_matKhau.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_matKhau.Location = new System.Drawing.Point(81, 154);
+            this.lbl_matKhau.Location = new System.Drawing.Point(76, 154);
             this.lbl_matKhau.Name = "lbl_matKhau";
-            this.lbl_matKhau.Size = new System.Drawing.Size(74, 17);
+            this.lbl_matKhau.Size = new System.Drawing.Size(85, 20);
             this.lbl_matKhau.TabIndex = 12;
             this.lbl_matKhau.Text = "Mật khẩu";
             // 
@@ -184,7 +184,7 @@
             this.lbl_taiKhoan.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_taiKhoan.Location = new System.Drawing.Point(76, 93);
             this.lbl_taiKhoan.Name = "lbl_taiKhoan";
-            this.lbl_taiKhoan.Size = new System.Drawing.Size(80, 17);
+            this.lbl_taiKhoan.Size = new System.Drawing.Size(90, 20);
             this.lbl_taiKhoan.TabIndex = 11;
             this.lbl_taiKhoan.Text = "Tài khoản";
             // 
@@ -194,7 +194,7 @@
             this.lbl_title.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_title.Location = new System.Drawing.Point(460, 10);
             this.lbl_title.Name = "lbl_title";
-            this.lbl_title.Size = new System.Drawing.Size(241, 31);
+            this.lbl_title.Size = new System.Drawing.Size(288, 38);
             this.lbl_title.TabIndex = 10;
             this.lbl_title.Text = "Quản lý tài khoản";
             // 
@@ -205,7 +205,7 @@
             this.cbo_maCB.FormattingEnabled = true;
             this.cbo_maCB.Location = new System.Drawing.Point(238, 214);
             this.cbo_maCB.Name = "cbo_maCB";
-            this.cbo_maCB.Size = new System.Drawing.Size(275, 25);
+            this.cbo_maCB.Size = new System.Drawing.Size(275, 28);
             this.cbo_maCB.TabIndex = 21;
             // 
             // btb_lammoi
@@ -220,9 +220,9 @@
             // 
             // frmQuanLyTaiKhoan
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(950, 586);
             this.Controls.Add(this.btb_lammoi);
             this.Controls.Add(this.dgv_qlTaiKhoan);
