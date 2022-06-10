@@ -71,6 +71,7 @@
             // 
             // panel1
             // 
+            this.panel1.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.panel1.Controls.Add(this.lbl_title);
             this.panel1.Location = new System.Drawing.Point(1, 2);
             this.panel1.Name = "panel1";
@@ -83,12 +84,13 @@
             this.lbl_title.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_title.Location = new System.Drawing.Point(458, 7);
             this.lbl_title.Name = "lbl_title";
-            this.lbl_title.Size = new System.Drawing.Size(252, 31);
+            this.lbl_title.Size = new System.Drawing.Size(300, 38);
             this.lbl_title.TabIndex = 0;
             this.lbl_title.Text = "Tìm kiếm thông tin";
             // 
             // panel2
             // 
+            this.panel2.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.panel2.Controls.Add(this.btn_hienThi);
             this.panel2.Controls.Add(this.dgv_searSinhVien);
             this.panel2.Controls.Add(this.btn_searchSV);
@@ -104,9 +106,9 @@
             this.btn_hienThi.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_hienThi.Image = global::QuanLyKyTucXa.Properties.Resources.Doc32;
             this.btn_hienThi.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_hienThi.Location = new System.Drawing.Point(394, 191);
+            this.btn_hienThi.Location = new System.Drawing.Point(407, 191);
             this.btn_hienThi.Name = "btn_hienThi";
-            this.btn_hienThi.Size = new System.Drawing.Size(107, 54);
+            this.btn_hienThi.Size = new System.Drawing.Size(124, 54);
             this.btn_hienThi.TabIndex = 4;
             this.btn_hienThi.Text = "Hiển thị";
             this.btn_hienThi.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -169,7 +171,9 @@
             // 
             this.GioiTinh.DataPropertyName = "GioiTinh";
             this.GioiTinh.HeaderText = "Giới Tính";
+            this.GioiTinh.MinimumWidth = 6;
             this.GioiTinh.Name = "GioiTinh";
+            this.GioiTinh.Width = 125;
             // 
             // sodt
             // 
@@ -210,7 +214,7 @@
             this.btn_searchSV.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn_searchSV.Location = new System.Drawing.Point(61, 191);
             this.btn_searchSV.Name = "btn_searchSV";
-            this.btn_searchSV.Size = new System.Drawing.Size(107, 54);
+            this.btn_searchSV.Size = new System.Drawing.Size(128, 54);
             this.btn_searchSV.TabIndex = 1;
             this.btn_searchSV.Text = "Tìm kiếm";
             this.btn_searchSV.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -219,6 +223,7 @@
             // 
             // grm_sv
             // 
+            this.grm_sv.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.grm_sv.Controls.Add(this.txt_maSV);
             this.grm_sv.Controls.Add(this.lbl_maSV);
             this.grm_sv.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -234,7 +239,7 @@
             this.txt_maSV.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_maSV.Location = new System.Drawing.Point(237, 53);
             this.txt_maSV.Name = "txt_maSV";
-            this.txt_maSV.Size = new System.Drawing.Size(283, 23);
+            this.txt_maSV.Size = new System.Drawing.Size(283, 27);
             this.txt_maSV.TabIndex = 1;
             // 
             // lbl_maSV
@@ -242,12 +247,13 @@
             this.lbl_maSV.AutoSize = true;
             this.lbl_maSV.Location = new System.Drawing.Point(14, 56);
             this.lbl_maSV.Name = "lbl_maSV";
-            this.lbl_maSV.Size = new System.Drawing.Size(142, 17);
+            this.lbl_maSV.Size = new System.Drawing.Size(164, 20);
             this.lbl_maSV.TabIndex = 0;
             this.lbl_maSV.Text = "Nhập mã sinh viên";
             // 
             // panel3
             // 
+            this.panel3.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.panel3.Controls.Add(this.dgv_searchPhong);
             this.panel3.Controls.Add(this.btn_thoat);
             this.panel3.Controls.Add(this.btn_searchPhong);
@@ -336,9 +342,9 @@
             this.btn_thoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_thoat.Image = global::QuanLyKyTucXa.Properties.Resources.Next32;
             this.btn_thoat.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btn_thoat.Location = new System.Drawing.Point(395, 191);
+            this.btn_thoat.Location = new System.Drawing.Point(384, 191);
             this.btn_thoat.Name = "btn_thoat";
-            this.btn_thoat.Size = new System.Drawing.Size(107, 54);
+            this.btn_thoat.Size = new System.Drawing.Size(130, 54);
             this.btn_thoat.TabIndex = 2;
             this.btn_thoat.Text = "Thoát";
             this.btn_thoat.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -352,7 +358,7 @@
             this.btn_searchPhong.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn_searchPhong.Location = new System.Drawing.Point(94, 191);
             this.btn_searchPhong.Name = "btn_searchPhong";
-            this.btn_searchPhong.Size = new System.Drawing.Size(107, 54);
+            this.btn_searchPhong.Size = new System.Drawing.Size(130, 54);
             this.btn_searchPhong.TabIndex = 3;
             this.btn_searchPhong.Text = "Tìm kiếm";
             this.btn_searchPhong.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -361,6 +367,7 @@
             // 
             // grb_phong
             // 
+            this.grb_phong.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.grb_phong.Controls.Add(this.txt_tenPhong);
             this.grb_phong.Controls.Add(this.lbl_maPhong);
             this.grb_phong.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -376,7 +383,7 @@
             this.txt_tenPhong.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_tenPhong.Location = new System.Drawing.Point(216, 57);
             this.txt_tenPhong.Name = "txt_tenPhong";
-            this.txt_tenPhong.Size = new System.Drawing.Size(283, 23);
+            this.txt_tenPhong.Size = new System.Drawing.Size(295, 27);
             this.txt_tenPhong.TabIndex = 3;
             // 
             // lbl_maPhong
@@ -384,13 +391,13 @@
             this.lbl_maPhong.AutoSize = true;
             this.lbl_maPhong.Location = new System.Drawing.Point(42, 60);
             this.lbl_maPhong.Name = "lbl_maPhong";
-            this.lbl_maPhong.Size = new System.Drawing.Size(124, 17);
+            this.lbl_maPhong.Size = new System.Drawing.Size(140, 20);
             this.lbl_maPhong.TabIndex = 2;
             this.lbl_maPhong.Text = "Nhập tên phòng";
             // 
             // frmTimKiem
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.ClientSize = new System.Drawing.Size(1207, 783);
