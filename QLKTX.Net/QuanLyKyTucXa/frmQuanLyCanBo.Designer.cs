@@ -67,7 +67,7 @@
             this.dtp_ngaySinh.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.dtp_ngaySinh.Location = new System.Drawing.Point(166, 212);
             this.dtp_ngaySinh.Name = "dtp_ngaySinh";
-            this.dtp_ngaySinh.Size = new System.Drawing.Size(273, 26);
+            this.dtp_ngaySinh.Size = new System.Drawing.Size(273, 30);
             this.dtp_ngaySinh.TabIndex = 48;
             // 
             // txt_search
@@ -75,7 +75,7 @@
             this.txt_search.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_search.Location = new System.Drawing.Point(860, 273);
             this.txt_search.Name = "txt_search";
-            this.txt_search.Size = new System.Drawing.Size(272, 23);
+            this.txt_search.Size = new System.Drawing.Size(272, 27);
             this.txt_search.TabIndex = 53;
             // 
             // lbl_ssearch
@@ -84,7 +84,7 @@
             this.lbl_ssearch.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_ssearch.Location = new System.Drawing.Point(600, 280);
             this.lbl_ssearch.Name = "lbl_ssearch";
-            this.lbl_ssearch.Size = new System.Drawing.Size(192, 17);
+            this.lbl_ssearch.Size = new System.Drawing.Size(223, 20);
             this.lbl_ssearch.TabIndex = 60;
             this.lbl_ssearch.Text = "Nhập tên cán bộ tìm kiếm";
             // 
@@ -94,7 +94,7 @@
             this.lbl_soDT.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_soDT.Location = new System.Drawing.Point(704, 212);
             this.lbl_soDT.Name = "lbl_soDT";
-            this.lbl_soDT.Size = new System.Drawing.Size(104, 17);
+            this.lbl_soDT.Size = new System.Drawing.Size(119, 20);
             this.lbl_soDT.TabIndex = 59;
             this.lbl_soDT.Text = "Số điện thoại";
             // 
@@ -104,7 +104,7 @@
             this.lbl_diaChi.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_diaChi.Location = new System.Drawing.Point(755, 153);
             this.lbl_diaChi.Name = "lbl_diaChi";
-            this.lbl_diaChi.Size = new System.Drawing.Size(58, 17);
+            this.lbl_diaChi.Size = new System.Drawing.Size(68, 20);
             this.lbl_diaChi.TabIndex = 58;
             this.lbl_diaChi.Text = "Địa chỉ";
             // 
@@ -114,7 +114,7 @@
             this.lbl_chucVu.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_chucVu.Location = new System.Drawing.Point(746, 88);
             this.lbl_chucVu.Name = "lbl_chucVu";
-            this.lbl_chucVu.Size = new System.Drawing.Size(66, 17);
+            this.lbl_chucVu.Size = new System.Drawing.Size(77, 20);
             this.lbl_chucVu.TabIndex = 57;
             this.lbl_chucVu.Text = "Chức vụ";
             // 
@@ -124,7 +124,7 @@
             this.lbl_gioiTinh.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_gioiTinh.Location = new System.Drawing.Point(55, 280);
             this.lbl_gioiTinh.Name = "lbl_gioiTinh";
-            this.lbl_gioiTinh.Size = new System.Drawing.Size(69, 17);
+            this.lbl_gioiTinh.Size = new System.Drawing.Size(80, 20);
             this.lbl_gioiTinh.TabIndex = 56;
             this.lbl_gioiTinh.Text = "Giới tính";
             // 
@@ -134,7 +134,7 @@
             this.lbl_ngaySinh.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_ngaySinh.Location = new System.Drawing.Point(43, 221);
             this.lbl_ngaySinh.Name = "lbl_ngaySinh";
-            this.lbl_ngaySinh.Size = new System.Drawing.Size(80, 17);
+            this.lbl_ngaySinh.Size = new System.Drawing.Size(92, 20);
             this.lbl_ngaySinh.TabIndex = 55;
             this.lbl_ngaySinh.Text = "Ngày sinh";
             // 
@@ -144,7 +144,7 @@
             this.lbl_tenCB.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_tenCB.Location = new System.Drawing.Point(31, 157);
             this.lbl_tenCB.Name = "lbl_tenCB";
-            this.lbl_tenCB.Size = new System.Drawing.Size(90, 17);
+            this.lbl_tenCB.Size = new System.Drawing.Size(102, 20);
             this.lbl_tenCB.TabIndex = 54;
             this.lbl_tenCB.Text = "Tên cán bộ";
             // 
@@ -153,7 +153,7 @@
             this.txt_SDT.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_SDT.Location = new System.Drawing.Point(860, 212);
             this.txt_SDT.Name = "txt_SDT";
-            this.txt_SDT.Size = new System.Drawing.Size(272, 23);
+            this.txt_SDT.Size = new System.Drawing.Size(272, 27);
             this.txt_SDT.TabIndex = 52;
             // 
             // txt_diaChi
@@ -161,7 +161,7 @@
             this.txt_diaChi.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_diaChi.Location = new System.Drawing.Point(860, 150);
             this.txt_diaChi.Name = "txt_diaChi";
-            this.txt_diaChi.Size = new System.Drawing.Size(275, 23);
+            this.txt_diaChi.Size = new System.Drawing.Size(275, 27);
             this.txt_diaChi.TabIndex = 51;
             // 
             // txt_chucVu
@@ -169,7 +169,7 @@
             this.txt_chucVu.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_chucVu.Location = new System.Drawing.Point(860, 85);
             this.txt_chucVu.Name = "txt_chucVu";
-            this.txt_chucVu.Size = new System.Drawing.Size(275, 23);
+            this.txt_chucVu.Size = new System.Drawing.Size(275, 27);
             this.txt_chucVu.TabIndex = 50;
             // 
             // txt_tenCB
@@ -177,7 +177,7 @@
             this.txt_tenCB.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_tenCB.Location = new System.Drawing.Point(166, 152);
             this.txt_tenCB.Name = "txt_tenCB";
-            this.txt_tenCB.Size = new System.Drawing.Size(273, 23);
+            this.txt_tenCB.Size = new System.Drawing.Size(273, 27);
             this.txt_tenCB.TabIndex = 47;
             // 
             // txt_maCB
@@ -185,7 +185,7 @@
             this.txt_maCB.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_maCB.Location = new System.Drawing.Point(166, 89);
             this.txt_maCB.Name = "txt_maCB";
-            this.txt_maCB.Size = new System.Drawing.Size(273, 23);
+            this.txt_maCB.Size = new System.Drawing.Size(273, 27);
             this.txt_maCB.TabIndex = 45;
             // 
             // lbl_maCB
@@ -194,7 +194,7 @@
             this.lbl_maCB.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_maCB.Location = new System.Drawing.Point(38, 89);
             this.lbl_maCB.Name = "lbl_maCB";
-            this.lbl_maCB.Size = new System.Drawing.Size(83, 17);
+            this.lbl_maCB.Size = new System.Drawing.Size(96, 20);
             this.lbl_maCB.TabIndex = 46;
             this.lbl_maCB.Text = "Mã cán bộ";
             // 
@@ -253,6 +253,7 @@
             // 
             this.GioiTinh.DataPropertyName = "GioiTinh";
             this.GioiTinh.HeaderText = "Giới Tính";
+            this.GioiTinh.MinimumWidth = 6;
             this.GioiTinh.Name = "GioiTinh";
             this.GioiTinh.Width = 150;
             // 
@@ -278,7 +279,7 @@
             this.lbl_title.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_title.Location = new System.Drawing.Point(437, 9);
             this.lbl_title.Name = "lbl_title";
-            this.lbl_title.Size = new System.Drawing.Size(209, 31);
+            this.lbl_title.Size = new System.Drawing.Size(251, 38);
             this.lbl_title.TabIndex = 38;
             this.lbl_title.Text = "Quản lý cán bộ";
             // 
@@ -357,14 +358,14 @@
             this.txt_gioitinh.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_gioitinh.Location = new System.Drawing.Point(166, 280);
             this.txt_gioitinh.Name = "txt_gioitinh";
-            this.txt_gioitinh.Size = new System.Drawing.Size(273, 23);
+            this.txt_gioitinh.Size = new System.Drawing.Size(273, 27);
             this.txt_gioitinh.TabIndex = 61;
             // 
             // frmQuanLyCanBo
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(1181, 784);
             this.Controls.Add(this.txt_gioitinh);
             this.Controls.Add(this.dtp_ngaySinh);

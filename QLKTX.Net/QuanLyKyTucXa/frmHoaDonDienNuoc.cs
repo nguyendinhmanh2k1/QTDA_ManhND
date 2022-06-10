@@ -16,7 +16,7 @@ namespace QuanLyKyTucXa
     public partial class frmHoaDonDienNuoc : Form
     {
         //String connString = @"Data Source=DESKTOP-07ODTJ3\SQLEXPRESS;Initial Catalog=QLKTX;Integrated Security=True";
-        String connString = @"Data Source=DESKTOP-LHTD1KI\SQLEXPRESS;Initial Catalog=QLKTX;Integrated Security=True";
+        String connString = @"Data Source=LAPTOP-1JTVO6QM\SQLEXPRESS;Initial Catalog=QLKTX;Integrated Security=True";
         SqlConnection conn;
         String ID;
         private readonly String Temp = Application.StartupPath + "/Template/HD_DienNuoc.docx";
