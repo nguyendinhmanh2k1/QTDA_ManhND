@@ -133,3 +133,26 @@ G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\ob
 G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
 G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
 G:\nam ba\nhip 1\do an .net\FILE DO AN LAP TRINH .NET\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe.config
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.exe
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\bin\Debug\QuanLyKyTucXa.pdb
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.AssemblyReference.cache
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.ResolveComReference.cache
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.FormDangNhap.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDangKyThue.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachphongTrong.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmDanhSachSinhVienTheoPhong.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonDienNuoc.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHoaDonTienPhong.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmHopDong.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmMain.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyCanBo.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyPhong.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLySinhVien.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmQuanLyTaiKhoan.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.frmTimKiem.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.Properties.Resources.resources
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.GenerateResource.cache
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.csproj.CoreCompileInputs.cache
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.exe
+D:\quan_tri_du_an\phan-men_QTDA\phan-men_QTDA\QLKTX.Net\QuanLyKyTucXa\obj\Debug\QuanLyKyTucXa.pdb
