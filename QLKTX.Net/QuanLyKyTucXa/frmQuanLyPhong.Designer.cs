@@ -66,7 +66,7 @@
             this.txt_loaiPhong.Location = new System.Drawing.Point(839, 82);
             this.txt_loaiPhong.Margin = new System.Windows.Forms.Padding(4);
             this.txt_loaiPhong.Name = "txt_loaiPhong";
-            this.txt_loaiPhong.Size = new System.Drawing.Size(236, 23);
+            this.txt_loaiPhong.Size = new System.Drawing.Size(236, 27);
             this.txt_loaiPhong.TabIndex = 25;
             // 
             // grb_giaPhong
@@ -89,7 +89,7 @@
             this.txt_giaPhong.Location = new System.Drawing.Point(211, 40);
             this.txt_giaPhong.Margin = new System.Windows.Forms.Padding(4);
             this.txt_giaPhong.Name = "txt_giaPhong";
-            this.txt_giaPhong.Size = new System.Drawing.Size(305, 23);
+            this.txt_giaPhong.Size = new System.Drawing.Size(305, 27);
             this.txt_giaPhong.TabIndex = 7;
             // 
             // lbl_giaPhong
@@ -99,7 +99,7 @@
             this.lbl_giaPhong.Location = new System.Drawing.Point(106, 44);
             this.lbl_giaPhong.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl_giaPhong.Name = "lbl_giaPhong";
-            this.lbl_giaPhong.Size = new System.Drawing.Size(52, 17);
+            this.lbl_giaPhong.Size = new System.Drawing.Size(61, 20);
             this.lbl_giaPhong.TabIndex = 15;
             this.lbl_giaPhong.Text = "Số tiền";
             // 
@@ -111,7 +111,7 @@
             this.cbo_maKhu.Location = new System.Drawing.Point(232, 144);
             this.cbo_maKhu.Margin = new System.Windows.Forms.Padding(4);
             this.cbo_maKhu.Name = "cbo_maKhu";
-            this.cbo_maKhu.Size = new System.Drawing.Size(238, 25);
+            this.cbo_maKhu.Size = new System.Drawing.Size(238, 28);
             this.cbo_maKhu.TabIndex = 21;
             this.cbo_maKhu.SelectedIndexChanged += new System.EventHandler(this.cbo_maKhu_SelectedIndexChanged);
             // 
@@ -121,7 +121,7 @@
             this.txt_soNguoiMax.Location = new System.Drawing.Point(838, 200);
             this.txt_soNguoiMax.Margin = new System.Windows.Forms.Padding(4);
             this.txt_soNguoiMax.Name = "txt_soNguoiMax";
-            this.txt_soNguoiMax.Size = new System.Drawing.Size(238, 23);
+            this.txt_soNguoiMax.Size = new System.Drawing.Size(238, 27);
             this.txt_soNguoiMax.TabIndex = 27;
             // 
             // txt_soNguoiHT
@@ -130,7 +130,7 @@
             this.txt_soNguoiHT.Location = new System.Drawing.Point(839, 144);
             this.txt_soNguoiHT.Margin = new System.Windows.Forms.Padding(4);
             this.txt_soNguoiHT.Name = "txt_soNguoiHT";
-            this.txt_soNguoiHT.Size = new System.Drawing.Size(238, 23);
+            this.txt_soNguoiHT.Size = new System.Drawing.Size(238, 27);
             this.txt_soNguoiHT.TabIndex = 26;
             // 
             // txt_tenPhong
@@ -139,7 +139,7 @@
             this.txt_tenPhong.Location = new System.Drawing.Point(232, 202);
             this.txt_tenPhong.Margin = new System.Windows.Forms.Padding(4);
             this.txt_tenPhong.Name = "txt_tenPhong";
-            this.txt_tenPhong.Size = new System.Drawing.Size(238, 23);
+            this.txt_tenPhong.Size = new System.Drawing.Size(238, 27);
             this.txt_tenPhong.TabIndex = 24;
             // 
             // lbl_soNguoiMax
@@ -149,7 +149,7 @@
             this.lbl_soNguoiMax.Location = new System.Drawing.Point(629, 204);
             this.lbl_soNguoiMax.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl_soNguoiMax.Name = "lbl_soNguoiMax";
-            this.lbl_soNguoiMax.Size = new System.Drawing.Size(118, 17);
+            this.lbl_soNguoiMax.Size = new System.Drawing.Size(135, 20);
             this.lbl_soNguoiMax.TabIndex = 23;
             this.lbl_soNguoiMax.Text = "Số người tối đa";
             // 
@@ -159,7 +159,7 @@
             this.txt_maPhong.Location = new System.Drawing.Point(232, 82);
             this.txt_maPhong.Margin = new System.Windows.Forms.Padding(4);
             this.txt_maPhong.Name = "txt_maPhong";
-            this.txt_maPhong.Size = new System.Drawing.Size(238, 23);
+            this.txt_maPhong.Size = new System.Drawing.Size(238, 27);
             this.txt_maPhong.TabIndex = 18;
             // 
             // lbl_tenPhong
@@ -169,7 +169,7 @@
             this.lbl_tenPhong.Location = new System.Drawing.Point(78, 206);
             this.lbl_tenPhong.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl_tenPhong.Name = "lbl_tenPhong";
-            this.lbl_tenPhong.Size = new System.Drawing.Size(86, 17);
+            this.lbl_tenPhong.Size = new System.Drawing.Size(96, 20);
             this.lbl_tenPhong.TabIndex = 22;
             this.lbl_tenPhong.Text = "Tên phòng";
             // 
@@ -180,7 +180,7 @@
             this.lbl_loaiPhong.Location = new System.Drawing.Point(664, 84);
             this.lbl_loaiPhong.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl_loaiPhong.Name = "lbl_loaiPhong";
-            this.lbl_loaiPhong.Size = new System.Drawing.Size(89, 17);
+            this.lbl_loaiPhong.Size = new System.Drawing.Size(101, 20);
             this.lbl_loaiPhong.TabIndex = 17;
             this.lbl_loaiPhong.Text = "Loại phòng";
             // 
@@ -191,7 +191,7 @@
             this.lbl_songuoiHT.Location = new System.Drawing.Point(611, 144);
             this.lbl_songuoiHT.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl_songuoiHT.Name = "lbl_songuoiHT";
-            this.lbl_songuoiHT.Size = new System.Drawing.Size(131, 17);
+            this.lbl_songuoiHT.Size = new System.Drawing.Size(150, 20);
             this.lbl_songuoiHT.TabIndex = 16;
             this.lbl_songuoiHT.Text = "Số người hiện tại";
             // 
@@ -202,7 +202,7 @@
             this.lbl_maKhu.Location = new System.Drawing.Point(130, 147);
             this.lbl_maKhu.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl_maKhu.Name = "lbl_maKhu";
-            this.lbl_maKhu.Size = new System.Drawing.Size(36, 17);
+            this.lbl_maKhu.Size = new System.Drawing.Size(41, 20);
             this.lbl_maKhu.TabIndex = 20;
             this.lbl_maKhu.Text = "Khu";
             // 
@@ -213,7 +213,7 @@
             this.lbl_maPhong.Location = new System.Drawing.Point(84, 84);
             this.lbl_maPhong.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl_maPhong.Name = "lbl_maPhong";
-            this.lbl_maPhong.Size = new System.Drawing.Size(79, 17);
+            this.lbl_maPhong.Size = new System.Drawing.Size(90, 20);
             this.lbl_maPhong.TabIndex = 19;
             this.lbl_maPhong.Text = "Mã phòng";
             // 
@@ -224,7 +224,7 @@
             this.lbl_title.Location = new System.Drawing.Point(465, 25);
             this.lbl_title.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl_title.Name = "lbl_title";
-            this.lbl_title.Size = new System.Drawing.Size(202, 31);
+            this.lbl_title.Size = new System.Drawing.Size(242, 38);
             this.lbl_title.TabIndex = 15;
             this.lbl_title.Text = "Quản lý phòng";
             // 
@@ -366,9 +366,9 @@
             // 
             // frmQuanLyPhong
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(1178, 782);
             this.Controls.Add(this.dgv_qlPhong);
             this.Controls.Add(this.btn_thoat);

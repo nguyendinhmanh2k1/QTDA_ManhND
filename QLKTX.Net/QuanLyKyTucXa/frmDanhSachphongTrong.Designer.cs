@@ -127,7 +127,7 @@
             this.lbl_title.Location = new System.Drawing.Point(292, 9);
             this.lbl_title.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl_title.Name = "lbl_title";
-            this.lbl_title.Size = new System.Drawing.Size(371, 31);
+            this.lbl_title.Size = new System.Drawing.Size(443, 38);
             this.lbl_title.TabIndex = 1;
             this.lbl_title.Text = "Danh sách phòng còn trống";
             // 
@@ -153,7 +153,7 @@
             this.lbl_search.Location = new System.Drawing.Point(25, 104);
             this.lbl_search.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl_search.Name = "lbl_search";
-            this.lbl_search.Size = new System.Drawing.Size(188, 17);
+            this.lbl_search.Size = new System.Drawing.Size(217, 20);
             this.lbl_search.TabIndex = 3;
             this.lbl_search.Text = "Nhập tên phòng tìm kiếm";
             // 
@@ -163,7 +163,7 @@
             this.txt_search.Location = new System.Drawing.Point(260, 101);
             this.txt_search.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.txt_search.Name = "txt_search";
-            this.txt_search.Size = new System.Drawing.Size(300, 23);
+            this.txt_search.Size = new System.Drawing.Size(300, 27);
             this.txt_search.TabIndex = 4;
             // 
             // btn_search
@@ -183,9 +183,9 @@
             // 
             // frmDanhSachphongTrong
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(1027, 692);
             this.Controls.Add(this.btn_search);
             this.Controls.Add(this.txt_search);
